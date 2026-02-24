@@ -1,7 +1,5 @@
 def hello():
-    """
-      this is demo
-    """
+    """This is demo."""
     return "Hello Dosto"
 
-hello()
+print(hello())
