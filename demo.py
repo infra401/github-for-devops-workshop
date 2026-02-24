@@ -1,5 +1,7 @@
-def my_function():
-    a = 5
-    return a 
+def hello():
+    """
+      this is demo
+    """
+    return "Hello Dosto"
 
-my_function()
+hello()
